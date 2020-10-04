@@ -7,7 +7,7 @@ Hi - My name is Rachel and I’m a recent bootcamp grad searching for my first t
 Read and listen to your sheet music and keep a practice log. Made with JWT Auth, Bootstrap, React and MongoDB.
 
 ### 🕉️ Yoga sequence generator
-Browse yoga poses to create your own flow. Made with React and Bulma.
+Browse yoga poses to create your own flow. Made with React and Bootstrap. Check it out <a href="https://yoga-gen.netlify.app/">here</a>!
 
 ## Get in touch
 <li> <a href="www.linkedin.com/in/raquel-gonzo" >LinkedIn</a> </li>
