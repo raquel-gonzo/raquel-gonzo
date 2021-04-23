@@ -1,6 +1,6 @@
 # ✨ Rachel Gonzalez || @raquel-gonzo ✨
 
-Hi - My name is Rachel and I’m a recent bootcamp grad searching for my first tech role. I’ve been primarily working with MongoDB, Express, React, and Node. As a violinist, my goal as a programmer is to make learning music fun!
+Hi - My name is Rachel and I’m a Software Engineer at <a href="https://www.breaktech.com/">Breakthrough Technologies</a>. I enjoy working with front-end JS frameworks and learning new things. When I'm not working, you can find me playing violin or cooking a new recipe!
 
 ## Highlighted projects
 ### 🎼 Interactive Circle-of-Fifths
