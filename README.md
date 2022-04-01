@@ -17,4 +17,4 @@ Match the sugar skulls. A memory card game made with React and Cloudinary. Origi
 
 ## Get in touch
 <li><a href="https://www.linkedin.com/in/rgonzalezviolin/">LinkedIn</a></li>
-<li><a href="https://rachel-gonzalez.netlify.app/">Portfolio</a></li>
+<li><a href="https://raquel-gonzalez.netlify.app/">Portfolio</a></li>
